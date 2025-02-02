@@ -12,7 +12,7 @@ Flask
 Установка:
 
 1.Клонируйте репозиторий:
-git clone https://github.com/yourusername/SchoolJournal-API.git
+git clone https://github.com/velialogiatour/SchoolJournal_API.git
 cd SchoolJournal-API
 
 2.Создайте виртуальное окружение и установите зависимости:
