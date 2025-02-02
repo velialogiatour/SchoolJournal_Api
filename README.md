@@ -13,7 +13,8 @@ Flask
 
 1.Клонируйте репозиторий:
 git clone https://github.com/velialogiatour/SchoolJournal_API.git
-cd SchoolJournal-API
+
+cd SchoolJournal_API
 
 2.Создайте виртуальное окружение и установите зависимости:
 python -m venv venv
